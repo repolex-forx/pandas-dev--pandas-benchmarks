@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "pandas-dev",
+  "repo": "pandas-benchmarks",
+  "versions": [
+    {
+      "commit": "6cceefa00d05e03f7ffbf06e54185ba0b9f211b0",
+      "parsed_at": "2026-10-21T20:55:00.581434+00:00",
+      "filetree": "filetree/6cceefa00d05e03f7ffbf06e54185ba0b9f211b0.nq.gz",
+      "blobs": [
+        "blob/df4945d3b8c08cdaa7a45de1ff7cb303eb72dd2d.nq.gz",
+        "blob/95aebb37c1f15fe52b7be103cf03553c60fd346a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
