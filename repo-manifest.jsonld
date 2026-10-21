@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pandas-dev/pandas-benchmarks/commit/6cceefa00d05e03f7ffbf06e54185ba0b9f211b0",
       "git:hexsha": "6cceefa00d05e03f7ffbf06e54185ba0b9f211b0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
